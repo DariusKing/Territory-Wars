@@ -1,0 +1,49 @@
+name: TerritoryWars
+version: 1.0.0
+main: me.plumstar.territorywars.TerritoryWars
+author: Plumstar
+commands:
+  spawnshopkeeper:
+    description: Spawns Isaac the shop keeper.
+  addswear:
+    description: Adds a swear word to the list.
+  gm:
+    description: Toggles GM.
+  globalmute:
+    description: Toggles Global Mute.
+  alert:
+    description: Sends an alert.
+  cchat:
+    description: Clears chat.
+  ping:
+    description: Checks your ping.
+  rules:
+    description: Displays the rules.
+  sc:
+    description: Write in Staff Chat.
+  pm:
+    description: Private Messages a player.
+  w:
+    description: Private Messages a player.
+  msg:
+    description: Private Messages a player.
+  whisper:
+    description: Private Messages a player.
+  message:
+    description: Private Messages a player.
+  spawnsomerandyvillager:
+    description: Spawn Some Randy Villager.
+  youtube:
+    description: Apply for youtube rank.
+  tc:
+    description: Write in Team Chat.
+  report:
+    description: Report a player.
+  forcevote:
+    description: Forces a player to vote.
+  vote:
+    description: Displays the voting links in chat.
+  ce:
+    description: Gets a custom enchanted item.
+  resetscores:
+    description: Resets the two scores of Red and Blue.
